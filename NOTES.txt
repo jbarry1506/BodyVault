@@ -1,0 +1,11 @@
+BodyVault
+
+Open program - splash screen
+    NEW
+        New info screen
+    OPEN
+        Popup window with "Select User" dropdown menu and scroll bar
+            user selected - populate latest data, including calculations - gray out first name and last name?
+
+TODO
+    change pickle to json and confirm that data is being saved properly
